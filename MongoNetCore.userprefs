@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{14BABCA5-11F0-451C-84FA-44611BEDE06C}|Default">
+  <MonoDevelop.Ide.ItemProperties.MongoNetCore.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MongoNetCore Status">
+    <Files>
+      <File FileName="MongoNetCore Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

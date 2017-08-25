@@ -1,0 +1,14 @@
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Web.deps.json
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Web.runtimeconfig.json
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Web.runtimeconfig.dev.json
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Web.dll
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Web.pdb
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/obj/Debug/netcoreapp1.1/MongoNetCore.Web.csprojResolveAssemblyReference.cache
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/obj/Debug/netcoreapp1.1/MongoNetCore.Web.csproj.CoreCompileInputs.cache
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/obj/Debug/netcoreapp1.1/MongoNetCore.Web.AssemblyInfo.cs
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/obj/Debug/netcoreapp1.1/MongoNetCore.Web.dll
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/obj/Debug/netcoreapp1.1/MongoNetCore.Web.pdb
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Data.dll
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Infraestructure.dll
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Data.pdb
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Web/bin/Debug/netcoreapp1.1/MongoNetCore.Infraestructure.pdb

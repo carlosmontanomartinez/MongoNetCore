@@ -1,0 +1,8 @@
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/bin/Debug/netstandard1.4/MongoNetCore.Infraestructure.deps.json
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/bin/Debug/netstandard1.4/MongoNetCore.Infraestructure.dll
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/bin/Debug/netstandard1.4/MongoNetCore.Infraestructure.pdb
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/obj/Debug/netstandard1.4/MongoNetCore.Infraestructure.csprojResolveAssemblyReference.cache
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/obj/Debug/netstandard1.4/MongoNetCore.Infraestructure.csproj.CoreCompileInputs.cache
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/obj/Debug/netstandard1.4/MongoNetCore.Infraestructure.AssemblyInfo.cs
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/obj/Debug/netstandard1.4/MongoNetCore.Infraestructure.dll
+/Users/carlosmontanomartinez/Projects/MongoNetCore/MongoNetCore.Infraestructure/obj/Debug/netstandard1.4/MongoNetCore.Infraestructure.pdb
